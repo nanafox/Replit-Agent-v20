@@ -1,0 +1,31 @@
+kind = "slides"
+previewPath = "/"
+title = "Build with Replit Agent 4 — v2.0"
+version = "1.0.0"
+id = "artifacts/replit-ghana-slides-v2"
+router = "path"
+
+[[integratedSkills]]
+name = "slides"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22595
+
+[services.development]
+run = "pnpm --filter @workspace/replit-ghana-slides-v2 run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/replit-ghana-slides-v2", "run", "build" ]
+publicDir = "artifacts/replit-ghana-slides-v2/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22595"
+BASE_PATH = "/"

@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Z_71dxZNBOEg7anAB-VQG"
+uri = "file://artifacts/replit-ghana-slides-v2/public/saas-dashboard.png"
+type = "image"
+title = "saas dashboard mockup"

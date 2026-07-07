@@ -1,0 +1,130 @@
+[
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/S01Title.tsx",
+    "title": "Build with Replit Agent 4 — v2.0",
+    "description": "Title slide for the Replit Ghana Ecosystem v2.0 session.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/S02Host.tsx",
+    "title": "Your Host",
+    "description": "Introduction to host Maxwell Nana Forson.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/S03Recap.tsx",
+    "title": "Where We Left Off",
+    "description": "Recap of the v1.0 fundamentals.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/S04Roadmap.tsx",
+    "title": "Session Roadmap",
+    "description": "The three acts of tonight's session.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/S05ClaudeDesign.tsx",
+    "title": "Claude Design + Replit",
+    "description": "Designing in Claude Design and bringing it into Replit to build.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/S06SystemDepth.tsx",
+    "title": "Prompting for System Depth",
+    "description": "Describe the system: data, rules, and flow.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/S07MultiAgent.tsx",
+    "title": "Multi-Agent Orchestration",
+    "description": "Splitting a build across focused parallel agents.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/S08OrchestrationPattern.tsx",
+    "title": "The Orchestration Pattern",
+    "description": "Contract-first coordination across agents.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000009",
+    "position": 9,
+    "filepath": "src/pages/slides/S09ScalingProduction.tsx",
+    "title": "Scaling to Production",
+    "description": "Closing the gaps between an MVP and a product.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000010",
+    "position": 10,
+    "filepath": "src/pages/slides/S10ProductionChecklist.tsx",
+    "title": "Production Checklist",
+    "description": "The pre-launch checklist for going live.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000011",
+    "position": 11,
+    "filepath": "src/pages/slides/S11Deployments.tsx",
+    "title": "Replit Deployments",
+    "description": "Choosing the right deployment type.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000012",
+    "position": 12,
+    "filepath": "src/pages/slides/S12LiveBuild.tsx",
+    "title": "Live Build: Multi-Tenant SaaS",
+    "description": "Live build of a multi-tenant SaaS dashboard.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000013",
+    "position": 13,
+    "filepath": "src/pages/slides/S13Showcase.tsx",
+    "title": "Community Builder Showcase",
+    "description": "A community builder walks through a production system.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000014",
+    "position": 14,
+    "filepath": "src/pages/slides/S14PromptPatterns.tsx",
+    "title": "Advanced Prompt Patterns",
+    "description": "Reusable prompting moves for long builds.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000015",
+    "position": 15,
+    "filepath": "src/pages/slides/S15WhatsNext.tsx",
+    "title": "What's Coming Next",
+    "description": "A teaser of upcoming sessions.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1f0c001-0000-4000-8000-000000000016",
+    "position": 16,
+    "filepath": "src/pages/slides/S16Questions.tsx",
+    "title": "Questions & Discussion",
+    "description": "Closing slide with discussion and next steps.",
+    "speakerNotes": ""
+  }
+]
