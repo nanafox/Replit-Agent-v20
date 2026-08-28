@@ -1,6 +1,6 @@
 # Naming Direction
 
-Status: **Leading candidate, not final**
+Status: **New naming round required**
 
 ## Proposed working name
 
@@ -35,6 +35,27 @@ The preferred combination for now is:
 > **Nuvio**  
 > **A clearer way to run business.**
 
+## Screening result
+
+The initial shortlist was screened for active software or business use and for registered primary domains. No candidate passed cleanly.
+
+| Candidate | Result |
+|---|---|
+| Nuvio | Existing finance, software, consulting, and payment-related uses; primary domains are not clean. |
+| Daymark | Existing IT and business-services companies; `.com` and `.app` are registered. |
+| Workspan | Existing B2B software platform; `.com` and `.app` are registered. |
+| Workbase | Existing AI workspace and revenue software; `.com` and `.app` are registered. |
+| Branchline | Existing software and solutions businesses; `.com` and `.app` are registered. |
+| Linklane | Existing AI, smart-link, and software products; `.com` is registered. |
+| Pivora | Existing desktop and mobile app use; domain status was inconclusive during rate-limited lookup. |
+| Mainstay | Existing property, workforce, and business-service brands; not a clean software name. |
+
+### Conclusion
+
+There are currently **no genuinely clear recommendations** from the original shortlist. An available domain alone would not be enough to approve a name if the same or a confusingly similar name is already being used by software, finance, payments, or business-services companies.
+
+A second and third pass with additional coined candidates also failed to produce a clean `.com` and exact-name search result. The next round should use a more systematic domain-first process and should be screened before names are presented as recommendations.
+
 ## Naming risk
 
 A quick category scan found existing software, finance, consulting, and payment-related businesses using the Nuvio name or close variants. This does not automatically disqualify the name, but it means Nuvio should not be treated as cleared or ownable yet.
@@ -49,4 +70,4 @@ A quick category scan found existing software, finance, consulting, and payment-
 
 ## Current decision
 
-Use **Nuvio** in planning documents and early product language as the proposed working name. Do not create final brand assets, register domains, or treat the name as legally cleared until the availability review is complete.
+Do not use Nuvio or the other screened candidates as the product name. Start a new naming round with more distinctive coined names, then screen each candidate before it is added to the rest of the product documents.
