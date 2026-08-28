@@ -93,6 +93,34 @@ $29 base
 
 The business is billed for each unique active user once. A user assigned to three branches still counts as one active user for that business.
 
+## Business model assessment
+
+This is a good **initial** business model for the target customer, but it should be validated with real SME interviews before becoming final pricing.
+
+### Why the model works
+
+- **Accessible entry point:** A one-branch business can start at $9/month instead of committing to a large team package.
+- **Fair expansion:** A business pays for one additional user or branch at a time instead of buying unused capacity.
+- **Predictable revenue:** The business pays a recurring subscription, while staff join the business for free.
+- **Natural upgrade path:** As a business grows, the higher plans become more economical than stacking many add-ons.
+- **Simple first release:** There is no per-transaction fee, usage metering, or separate subscription for each branch.
+
+### Risks to watch
+
+- The $9 Starter plan may not cover support and onboarding costs if every customer needs hands-on help.
+- Very small teams may still compare the subscription with spreadsheets or free tools.
+- If read-only members are free, a business could create many accounts that increase infrastructure and support costs.
+- Too many differences between plans could make the table difficult to understand or make the Starter plan feel artificially restricted.
+
+### Recommended safeguards
+
+- Start with a **14-day trial** rather than a permanent free business plan.
+- Keep core catalog, inventory, sales, roles, and dashboard features available on every plan.
+- Count all non-suspended business members for now, including read-only members; revisit this only after usage data shows a need for a separate policy.
+- Show the estimated total before checkout and tell the customer when upgrading would cost less than continuing with add-ons.
+- Do not add transaction fees until the product has proven that customers receive value from the sales workflow.
+- Validate the prices with at least a handful of target businesses before launch, especially whether $9, $29, and $79 match their expectations.
+
 ## Usage definitions
 
 ### Active user
