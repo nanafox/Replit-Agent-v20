@@ -138,6 +138,27 @@ Replacement candidates for further discussion:
 
 These replacement candidates have only had a preliminary exact-name search. They are not domain- or trademark-cleared.
 
+### Second custom set: one coordinated business
+
+The next set moves away from standard SaaS words such as “pilot,” “orbit,” “mesh,” and “grid.” It focuses on the product promise that many activities and locations can operate as one business.
+
+#### Direction A: One operating picture
+
+- **WholeSync** — the whole business working in sync.
+- **OneCircuit** — one operating loop from activity to decision.
+
+#### Direction B: Activity becoming action
+
+- **RunSignal** — turn day-to-day activity into a useful business signal.
+- **ActionThread** — connect the actions that keep the business moving.
+
+#### Direction C: Alignment and growth
+
+- **AlignRise** — aligned operations that help the business rise.
+- **Unitide** — unite the business and move forward together.
+
+These are still brainstorming candidates. The preliminary search found nearby terms and related uses around some components, so a candidate must pass a deeper exact-name, domain, handle, and trademark review before approval.
+
 ### Suggested descriptors for testing
 
 - **Business operations for growing SMEs**
