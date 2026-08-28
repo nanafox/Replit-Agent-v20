@@ -18,7 +18,7 @@ export default function S16Questions() {
         </p>
       </div>
 
-      <div className="absolute left-[5vw] top-[58vh] z-10 w-[42vw]">
+      <div className="absolute left-[5vw] top-[53vh] z-10 w-[42vw]">
         <div className="h-[0.3vh] w-full bg-accent" />
         <h3 className="mt-[2.5vh] font-display text-[1.9vw] font-bold text-inverse">
           Stay Connected
