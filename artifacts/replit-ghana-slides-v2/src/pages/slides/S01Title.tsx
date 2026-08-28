@@ -23,7 +23,7 @@ export default function S01Title() {
         </h2>
 
         <p className="mt-[5vh] max-w-[46vw] font-body text-[1.9vw] font-normal leading-snug text-muted [text-wrap:pretty]">
-          Theme: Advanced orchestration, Claude Design, and shipping to
+          Theme: Free Mode, advanced orchestration, and shipping to
           production.
         </p>
 

@@ -34,9 +34,9 @@
   {
     "id": "a1f0c001-0000-4000-8000-000000000005",
     "position": 5,
-    "filepath": "src/pages/slides/S05ClaudeDesign.tsx",
-    "title": "Claude Design + Replit",
-    "description": "Designing in Claude Design and bringing it into Replit to build.",
+    "filepath": "src/pages/slides/S05FreeMode.tsx",
+    "title": "Free Mode",
+    "description": "Using Free Mode to keep momentum before switching to paid-credit modes.",
     "speakerNotes": ""
   },
   {

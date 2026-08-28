@@ -16,7 +16,7 @@ export default function S12LiveBuild() {
           Multi-Tenant SaaS
         </h1>
         <p className="mt-[3vh] font-body text-[1.55vw] leading-snug text-muted [text-wrap:pretty]">
-          We take the Claude design, orchestrate the build, and stand up a
+          We start in Free Mode, orchestrate the build, and stand up a
           working multi-tenant dashboard — live.
         </p>
         <div className="mt-[4vh] flex items-center gap-[1vw]">

@@ -32,8 +32,8 @@ export default function S16Questions() {
           Resources &amp; Next Steps
         </h3>
         <p className="mt-[1vh] font-body text-[1.3vw] leading-snug text-inverse-muted">
-          Try tonight&rsquo;s workflow: design in Claude Design, bring it into
-          Replit, and build from there.
+          Try tonight&rsquo;s workflow: start in Free Mode, give Replit focused
+          context, and build from there.
         </p>
       </div>
 

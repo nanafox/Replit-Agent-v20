@@ -13,7 +13,7 @@ export default function S04Roadmap() {
           Session Roadmap
         </h1>
         <p className="mt-[2.5vh] font-body text-[1.6vw] leading-snug text-muted">
-          Three acts, from design handoff to a live production build.
+          Three acts, from choosing the right mode to a live production build.
         </p>
       </div>
 
@@ -23,11 +23,10 @@ export default function S04Roadmap() {
             /01
           </span>
           <h3 className="mt-[2vh] font-display text-[2.1vw] font-bold leading-tight text-text">
-            Claude Design + Replit
+            Free Mode
           </h3>
           <p className="mt-[2.5vh] font-body text-[1.35vw] leading-snug text-muted">
-            Design the interface in Claude Design, then bring it into Replit to
-            build from.
+            Keep momentum on everyday work without spending Power or Max credits.
           </p>
         </div>
 
