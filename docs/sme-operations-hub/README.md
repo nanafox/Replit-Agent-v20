@@ -4,6 +4,16 @@ Status: **Draft for review**
 
 This folder contains the working product and implementation plans for the multi-tenant SME Operations Hub. These documents are intentionally written as reviewable contracts rather than final specifications. Decisions that are not yet confirmed are marked as **Proposed** or **Open**.
 
+## Working name
+
+**Nuvio** is the leading name candidate for the product.
+
+Preferred tagline:
+
+> A clearer way to run business.
+
+The name is not final or legally cleared. See the [naming direction](./00-naming.md) for the rationale and conflict notes.
+
 ## Current direction
 
 - One global user account can belong to multiple businesses.
@@ -18,11 +28,12 @@ This folder contains the working product and implementation plans for the multi-
 
 ## Documents
 
-1. [Product plan](./01-product-plan.md) — users, journeys, MVP scope, and product decisions.
-2. [Backend contract](./02-backend-contract.md) — tenancy, membership, branch authorization, money, and API boundaries.
-3. [Frontend contract](./03-frontend-contract.md) — routes, screens, context switching, permissions, and user flows.
-4. [Pricing and billing](./04-pricing-and-billing.md) — USD plans, limits, add-ons, checkout, and future payment integration.
-5. [Delivery plan](./05-delivery-plan.md) — proposed build sequence and demo acceptance checklist.
+1. [Naming direction](./00-naming.md) — proposed name, tagline, and availability risks.
+2. [Product plan](./01-product-plan.md) — users, journeys, MVP scope, and product decisions.
+3. [Backend contract](./02-backend-contract.md) — tenancy, membership, branch authorization, money, and API boundaries.
+4. [Frontend contract](./03-frontend-contract.md) — routes, screens, context switching, permissions, and user flows.
+5. [Pricing and billing](./04-pricing-and-billing.md) — USD plans, limits, add-ons, checkout, and future payment integration.
+6. [Delivery plan](./05-delivery-plan.md) — proposed build sequence and demo acceptance checklist.
 
 ## How to review
 

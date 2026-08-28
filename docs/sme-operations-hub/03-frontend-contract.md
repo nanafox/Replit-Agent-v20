@@ -1,4 +1,4 @@
-# Frontend Contract
+# Nuvio Frontend Contract
 
 Status: **Draft for review**
 
@@ -20,6 +20,10 @@ The frontend does not own authorization. It may hide unavailable actions for cla
 ```
 
 The landing page must show USD pricing. It should also state that joining a business is free for invited users.
+
+The current working product name is **Nuvio**, with the proposed tagline:
+
+> A clearer way to run business.
 
 ### Account and onboarding routes
 

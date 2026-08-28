@@ -1,6 +1,16 @@
-# Product Plan
+# Nuvio Product Plan
 
 Status: **Draft for review**
+
+## Working name
+
+**Nuvio** is the proposed product name while naming validation is in progress.
+
+Preferred tagline:
+
+> A clearer way to run business.
+
+This name is not yet final or legally cleared. See [Naming Direction](./00-naming.md).
 
 ## Product summary
 

@@ -1,4 +1,4 @@
-# Pricing and Billing
+# Nuvio Pricing and Billing
 
 Status: **Proposed for review**
 
