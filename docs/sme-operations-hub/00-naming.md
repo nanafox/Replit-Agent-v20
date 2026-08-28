@@ -88,6 +88,46 @@ Use an internal placeholder while the product is validated with prospective cust
 
 Use **Option 1**. Do not use Nuvio publicly or invest in a domain until a new candidate passes the preliminary conflict screen. Prefer a distinctive, neutral name that can cover inventory, sales, reporting, and future operations features without tying the product to one branch or industry.
 
+## Custom brainstorm
+
+This first custom round is shaped for a global SME audience, a modern and ambitious personality, and clear compound names. These are creative candidates only; none has been approved or cleared.
+
+### Direction A: Momentum and growth
+
+Names that position the product as a practical route from daily management to the next stage of business.
+
+- **RiseRoute** — a clearer route to growth.
+- **ForwardNest** — a steady base for moving forward.
+- **ScaleHarbor** — a reliable place to grow from.
+
+**Trade-off:** This direction is optimistic and commercially strong, but it says less about inventory, branches, or operations at first glance.
+
+### Direction B: Connected operations
+
+Names that emphasize bringing people, products, sales, and decisions into one coordinated system.
+
+- **MeshPilot** — helps the business navigate connected work.
+- **SignalNest** — gathers the signals a business needs to act.
+- **WorkOrbit** — keeps the moving parts of work in one orbit.
+
+**Trade-off:** This direction communicates coordination and modern software, but words such as “mesh,” “signal,” and “orbit” may need a descriptor for immediate clarity.
+
+### Direction C: Multi-location visibility
+
+Names that make the product’s branch and location advantage more apparent.
+
+- **SitePulse** — a live view of what is happening across locations.
+- **OutletOrbit** — every location connected to the wider business.
+- **BranchBeam** — a focused beam of visibility across branches.
+
+**Trade-off:** This direction explains the multi-location use case well, but it may feel more retail-specific and could limit the product if it expands beyond branch-based businesses.
+
+### Suggested descriptors for testing
+
+- **Business operations for growing SMEs**
+- **One clear view of your business**
+- **Run every location with confidence**
+
 ## Naming risk
 
 A quick category scan found existing software, finance, consulting, and payment-related businesses using the Nuvio name or close variants. This does not automatically disqualify the name, but it means Nuvio should not be treated as cleared or ownable yet.
