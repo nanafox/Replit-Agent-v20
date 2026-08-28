@@ -122,6 +122,22 @@ Names that make the product’s branch and location advantage more apparent.
 
 **Trade-off:** This direction explains the multi-location use case well, but it may feel more retail-specific and could limit the product if it expands beyond branch-based businesses.
 
+### Refined shortlist for connected operations
+
+The first connected-operations candidates were screened out because they already had software or business uses:
+
+- **MeshPilot**
+- **SignalNest**
+- **WorkOrbit**
+
+Replacement candidates for further discussion:
+
+- **LinkHarbor** — a steady connection for the whole business.
+- **SyncLoom** — weave every part of the business together.
+- **RelayNest** — a home base for connected operations.
+
+These replacement candidates have only had a preliminary exact-name search. They are not domain- or trademark-cleared.
+
 ### Suggested descriptors for testing
 
 - **Business operations for growing SMEs**
