@@ -24,6 +24,8 @@ These prices are an initial, more accessible proposal for the landing page. They
 
 The model uses a modest base subscription plus small individual add-ons. There are no 10-user bundles: if a business needs one additional user, it pays for one additional user.
 
+**Active users are counted per business, across all of its branches. They are not counted separately per branch.** For example, one manager assigned to three branches counts as one active user, not three.
+
 | Plan | Base price | Included branches | Included active users | Extra branch | Extra active user | Intended customer |
 |---|---:|---:|---:|---:|---:|---|
 | Starter | $9/month | 1 | 3 | $6/month | $1.50/month | One-location small business |
@@ -96,6 +98,8 @@ The business is billed for each unique active user once. A user assigned to thre
 ### Active user
 
 An active user is a non-suspended member with access to the business. A user assigned to multiple branches counts once for that business, not once per branch.
+
+The active-user allowance and any additional-user charges apply to the business-wide total. Branch assignments affect what a user can access, but do not create additional billable users.
 
 The same individual can count once in Business A and once in Business B because each business owns a separate subscription.
 

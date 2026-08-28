@@ -77,6 +77,8 @@ BranchAssignment
 
 The pair `membership_id + branch_id` must be unique. A branch assignment is valid only when the membership and branch belong to the same business.
 
+Active-user limits are enforced per business, not per branch. The backend counts each active `user_id + business_id` membership once, regardless of how many branch assignments that membership has. Branch assignments control access scope; they do not multiply billing or active-user usage.
+
 ## Domain ownership
 
 ### Business-scoped records
